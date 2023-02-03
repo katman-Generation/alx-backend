@@ -1,5 +1,3 @@
-
-
 #!/usr/bin/env python3
 """ Route module for the API """
 from flask import Flask, render_template
